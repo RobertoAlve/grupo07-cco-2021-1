@@ -1,0 +1,21 @@
+git clone url repositório
+
+git pull - puxa os os arquivos do repositório
+
+git status - verifica o status do repositório
+
+git add . - adiciona todos os arquivos do repo.
+git add . nome-do-arquivo.extensao - adiciona um arquivo especifico
+
+git commit -m "Texto sobre a alteração/ ação"
+
+git push - da o upload para o repositório no GitHub
+
+====================================================
+
+git config --global user.email "email da faculdade"
+git config --global user.name "nome do user no GitHub"
+
+====================================================
+
+Excluir um arquivo pelo git bash: git rm file.txt
